@@ -1,0 +1,33 @@
+body {
+	background: #F6F6F6;
+}
+
+.top-section-1 {
+	background: #EEECF4;
+	padding: 10px;
+}
+
+.top-section-2 {
+	background: #F5EBEB;
+	padding: 10px;
+}
+
+.bottom-section-1, .bottom-section-3 {
+	background: #E2E7E4;
+	padding: 20px;
+}
+
+.bottom-section-2, .bottom-section-4 {
+	background: #E5D1D1;
+	padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #E5E5E5;
+}
+
+.row {
+	margin-bottom: 30px;
+}
