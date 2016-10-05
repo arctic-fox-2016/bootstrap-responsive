@@ -1,0 +1,25 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Interactive Shopping Cart",
+  "main": "index.js",
+  "scripts": {
+    "start": "node client.js",
+    "dev": "nodemon client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "client",
+    "shopping",
+    "cart"
+  ],
+  "author": "Lilianti Wibiesono <lili.wibiesono@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "ejs-mate": "^2.3.0",
+    "express": "^4.14.0",
+    "live-server": "^1.1.0",
+    "node-sass-middleware": "^0.9.8"
+  }
+}

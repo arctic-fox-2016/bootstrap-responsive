@@ -1,3 +1,5 @@
+# Server
+
 # Super Interactive Shopping Cart
 
 Make shopping cart simulation with Express, *MongoDB*, jQuery, and AJAX.
