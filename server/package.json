@@ -1,0 +1,32 @@
+{
+  "name": "shopping-server",
+  "version": "1.0.0",
+  "description": "Shopping Cart Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "shopping",
+    "cart",
+    "server"
+  ],
+  "author": "Ari Adiprana <ari.adiprana@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "ex": "^0.1.4",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0",
+    "nodemon": "^1.10.2"
+  }
+}
